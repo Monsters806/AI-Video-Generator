@@ -1,5 +1,7 @@
 bidict==0.23.1
 blinker==1.8.2
+certifi==2026.6.17
+charset-normalizer==3.4.7
 click==8.1.7
 distlib==0.4.3
 dnspython==2.8.0
@@ -11,6 +13,7 @@ Flask-WTF==1.2.1
 greenlet==3.5.2
 gunicorn==26.0.0
 h11==0.16.0
+idna==3.18
 itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==2.1.5
@@ -19,7 +22,9 @@ platformdirs==4.10.0
 python-discovery==1.4.2
 python-engineio==4.11.0
 python-socketio==5.14.0
+requests==2.34.2
 simple-websocket==1.0.0
+urllib3==2.7.0
 virtualenv==21.5.1
 Werkzeug==3.0.6
 wsproto==1.2.0
